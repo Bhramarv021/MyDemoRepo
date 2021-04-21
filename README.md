@@ -1,4 +1,4 @@
 # MyDemoRepo
 Just for practice
 
-Adding another line manually in readme file. Modified this file manually.
+This line was modified manually during conflict resolution.
